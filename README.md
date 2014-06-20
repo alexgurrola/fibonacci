@@ -1,4 +1,4 @@
-[Fibonacci](http://alexgurrola.com/) - Cross-Platform Fibonacci Calculator in C++
+[Fibonacci](https://github.com/alexgurrola/fibonacci) - Cross-Platform Fibonacci Calculator in C++
 =====
 
 #####Overview
